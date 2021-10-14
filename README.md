@@ -1,7 +1,7 @@
 # Angry Spartan
 Keep working guys, we are doing great
 
-ARE WE ? :"")
+***WE DID GREAT***
 
 ## Current Phase
 ```
