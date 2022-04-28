@@ -9,14 +9,6 @@ Keep working guys, we are doing great
 ```
 DONE
 ```
-### Next Phases
-1) Basic functions
-2) World and UI design
-3) Character design
-4) Animation
-5) All functions implementation
-6) Brush up
-7) Deployment
 
 ## Assigned works  
  ## Abonty
