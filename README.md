@@ -7,7 +7,7 @@ Keep working guys, we are doing great
 
 ## Current Phase
 ```
-Research & Planning
+DONE
 ```
 ### Next Phases
 1) Basic functions
