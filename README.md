@@ -1,6 +1,8 @@
 # Angry Spartan
 Keep working guys, we are doing great
 
+## TECH: C++ and SFML
+
 ***WE DID GREAT***
 
 ## Current Phase
